@@ -1,0 +1,11 @@
+appscript==1.2.0
+certifi==2021.10.8
+charset-normalizer==2.0.12
+Cython==0.29.28
+idna==3.3
+lxml==4.8.0
+pyobjc-core==8.4.1
+pyobjc-framework-Cocoa==8.4.1
+requests==2.27.1
+screeninfo==0.8
+urllib3==1.26.9
